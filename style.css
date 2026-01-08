@@ -58,3 +58,9 @@ footer {
     font-size: 14px;
     background-color: rgba(0, 0, 0, 0.5);
 }
+img{
+    
+ height: 350px;
+  float: right;
+  margin-left: 10px; /* spacing between the two */
+}
